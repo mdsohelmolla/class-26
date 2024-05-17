@@ -1,0 +1,137 @@
+
+body a{
+    text-decoration: none;
+}
+.header-content{
+
+}
+.header-content h6{
+    color: rgb(12, 137, 240);
+}
+.header-content h2{
+    width: 60%;
+    font-weight: 700;
+}
+.header-content p{
+    color:#e0dfe3;
+    font-size: 17px;
+    font-weight: 400;
+}
+.header-img img{
+    width: 100%;
+   border: 1px solid #f5eeee;
+   height: 100%;
+}
+.beaner-content{
+    text-align: center;
+    margin-top: 10px;
+}
+.beaner-content h2{
+    font-weight: 700;
+    margin: 10px 0px ;
+}
+.beaner-content p{
+    color:#d6d3df;
+    font-size: 17px;
+    font-weight: 400;
+    width: 50%;
+    margin: auto;
+}
+.beaner-section-item{
+  margin-top: 50px;
+}   
+.beaner-section-img{
+    background: url("https://i.postimg.cc/BbG0D8BW/blog-grid1.jpg") no-repeat center ;
+    background-size: cover;
+    height: 200px;
+    width: 400px;
+    /* padding: 160px 10px; */
+    padding-top: 140px;
+    padding-left: 130px;
+
+}
+.beaner-section-img img{}
+.beaner-section-content{}
+.beaner-section-content h3{
+    margin: 10px 0px;
+    font-weight: 500;
+}
+.beaner-section-content p{
+    color:#c8c2d9;
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.beaner-anination-img{
+    height: 40px;
+    width: 250px;
+    background-color: blue;
+    border-radius: 40px;
+    padding: 10px;
+    color: #fff;
+    
+}
+
+.beaner-anination-img-item img{
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+}
+.beaner-anination-img-item{
+    margin-top:-4px ;
+    
+}
+.beaner-anination-content-item{
+    margin: auto;
+    margin-left: -20px;
+    margin-top: -5px;
+}
+.footer-background{
+    background-color: black;
+    color: #fff;
+}
+.footer-img img{
+    height: 100px ;
+    width: auto;
+    margin-bottom: 20px;
+}
+.footer-img h3{
+    font-size:18px ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.footer-img p{}
+.footer-img h4{
+    font-size:18px ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.footer-item{
+    margin-top: 50px;
+    border-bottom: 1px solid bisque;
+}
+.footer-icon samp{
+    padding-left: 15px;
+    margin-top: 10px;
+}
+.content-div{
+    border-left: 2px solid blue;
+}
+.content-div h4{
+    margin-left: 10px;
+}
+.footer-list{
+    
+}
+.footer-list ul{
+    list-style: none;
+    margin-top: 30px;
+}
+.footer-list ul li{
+    margin-left: -20px;
+    margin-top: 10px;
+    font-weight: 200;
+}
+.footer-last-content{
+    text-align: center;
+   padding:20px 0px ;
+}
